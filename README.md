@@ -60,7 +60,7 @@ Ensure you have Python 3.7 or later installed on your machine. You can download 
 
 1. **Clone the Repository**: Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/rag-chatbot.git
+    git clone https://github.com/shoufan/rag-chatbot.git
     cd rag-chatbot
     ```
 
