@@ -47,3 +47,41 @@ To improve the accuracy of the chatbot, several strategies were employed:
 4. **Use of Vectorization**: Employed vectorization techniques to compare key phrases and content rather than exact matches. This approach helped in evaluating the core information and understanding of the model more effectively.
 
 By implementing these strategies, the model's accuracy and overall performance were continuously monitored and improved, leading to a more robust and reliable chatbot.
+
+## Instructions to Run the Code
+
+To run the RAG-powered chatbot, follow these steps:
+
+### Prerequisites
+
+Ensure you have Python 3.7 or later installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+
+### Setup
+
+1. **Clone the Repository**: Clone this repository to your local machine.
+    ```bash
+    git clone https://github.com/yourusername/rag-chatbot.git
+    cd rag-chatbot
+    ```
+
+2. **Create a Virtual Environment**: It’s recommended to create a virtual environment to manage dependencies.
+    ```bash
+    python -m venv myenv
+    source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
+    ```
+
+3. **Install Dependencies**: Install the required Python packages using the `requirements.txt` file.
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Add PDF Document**: Ensure the `policy-booklet.pdf` file is in the same directory as `app.py`.
+
+5. **Add Dataset**: Ensure the `dataset.csv` file is in the same directory as `app.py`. This file should contain the query-response pairs for evaluation.
+
+### Running the Application
+
+Run the Streamlit application using the following command:
+  ```bash
+  streamlit run app.py
+  ```
