@@ -1,0 +1,12 @@
+User: What is the process to make a claim?
+Bot:  The process to make a claim is as follows:
+
+1. Notify your appointed representative of any developments related to the claim.
+2. Provide your appointed representative and us with any information, evidence, and documents you have or know about as soon as possible.
+3. Get our agreement before instructing a barrister or expert witness.
+4. Your appointed representative will assess the potential value to be gained in pursuing your case and the cost of taking legal action.
+5. If there are conflicting opinions, we may ask you to get an expert opinion from a barrister that we agree on.
+6. You must tell us if anyone offers to settle your claim or makes a payment into court.
+7. We may settle your claim outside of court if we think it makes financial sense to do so.
+8. We have the right to have costs certified, checked by an auditor, or assessed by a court.
+
